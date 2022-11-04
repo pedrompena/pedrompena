@@ -37,4 +37,3 @@
     [<a href="mailto:pedrompena07@gmail.com">e-mail</a>]
   </samp>
 </p>
-![sass](https://user-images.githubusercontent.com/113611848/199992389-22c76924-3174-47a9-8aa5-cbb87c228b97.svg)
