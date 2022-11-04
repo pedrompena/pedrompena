@@ -8,7 +8,7 @@
       </b>
       <br>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=20&color=F79BC8FF&center=true&width=410&height=45&lines=The+code+makes+me+free.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=20&color=B29FB6FF&center=true&width=410&height=45&lines=The+code+makes+me+free.">
       <br>
         <img width="50px" src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/src/svgs/html.svg" >
         <img width="50px" src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/src/svgs/css.svg" > 
