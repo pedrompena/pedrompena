@@ -14,9 +14,11 @@
         <img width="50px" src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/src/svgs/css.svg" > 
         <img width="50px" src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/src/svgs/javascript.svg" >
       <br>
-        <img width="50px" src="https://user-images.githubusercontent.com/113611848/199990361-745c04f7-c75e-4608-8edc-7a314f35f918.svg" >
-        <img width="50px" src="https://user-images.githubusercontent.com/113611848/199992389-22c76924-3174-47a9-8aa5-cbb87c228b97.svg" >
-      <br>    
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" >
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" >
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" >
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" >
+      <br>
       <br>
       <b>
         ~ Pedro Miguel Peña Paez ~
