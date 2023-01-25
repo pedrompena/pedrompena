@@ -35,7 +35,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://www.linkedin.com/in/pedrompena/">linkedin</a>]
+    [<a href="https://www.linkedin.com/in/pedrompena/" target="_blank">linkedin</a>]
     [<a href="mailto:pedrompena07@gmail.com">e-mail</a>]
   </samp>
 </p>
